@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\bin\Debug\CalculoArea.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\bin\Debug\CalculoArea.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\obj\Debug\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\obj\Debug\CalculoArea.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoArea\CalculoArea\obj\Debug\CalculoArea.pdb
